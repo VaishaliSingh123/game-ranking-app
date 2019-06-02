@@ -5,17 +5,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This project helps a user to upload a CSV file related to game data in a particular format,
 The user can  following operation
 
- Markup : * User can upload csv
-          * User can search by name
-          * User can sort by RANK and Year
-          * User can see detail by clicking on the list
+ 1. User can upload csv
+ 2. User can search by name
+ 3. User can sort by RANK and Year
+ 4. User can see detail by clicking on the list
           
 ## Instruction to run the project
 
- Markup : * Save project in local storage
-          * Go to project directory
-          * Run `npm install` or `yarn`
-          * Run `npm start`
+  1. Save project in local storage
+  2. Go to project directory
+  3. Run `npm install` or `yarn`
+  4. Run `npm start`
           
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
